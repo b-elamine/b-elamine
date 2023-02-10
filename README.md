@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @b-elamine
 - 👀 I’m interested in mobile developement and ML
-- 🌱 I’m currently learning more about ML and Federated learning 
+- 🌱 I’m currently learning more about ML, FL and DSP 
 - 📫 How to reach me : 
   - email : m.bechorfa@esi-sba.dz
   - WhatsApp : +33 626576789
