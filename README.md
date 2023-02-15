@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @b-elamine
-- 👀 I’m interested in mobile developement and ML
+- 👀 I’m a Full-Stack Developer 
 - 🌱 I’m currently learning more about ML, FL and DSP 
+- 🎯 Learn, share and grow 
+
 - 📫 How to reach me : 
   - email : m.bechorfa@esi-sba.dz
   - WhatsApp : +33 626576789
