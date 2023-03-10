@@ -45,6 +45,8 @@
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=b-elamine&theme=dark&background=000000)](https://git.io/streak-stats)
   
+  <img align="center" height="212" src="https://github-readme-stats.vercel.app/api?username=b-elamine&theme=radical&count_private=true">
+
 </div>
 <!---
 b-elamine/b-elamine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
