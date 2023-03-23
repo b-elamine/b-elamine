@@ -44,8 +44,7 @@
   <div align="center"> 
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=b-elamine&theme=dark&background=000000)](https://git.io/streak-stats)
-  
-  <img align="center" height="212" src="https://github-readme-stats.vercel.app/api?username=b-elamine&theme=radical&count_private=true">
+ 
 
 </div>
 <!---
