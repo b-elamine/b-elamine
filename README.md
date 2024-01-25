@@ -18,7 +18,7 @@
 
 - 👋 Hi, I’m @b-elamine
 - 👀 I’m a Full-Stack Developer 
-- 🌱 I’m currently learning more about ML, FL and DSP 
+- 🌱 ML, FL and DSP enthusiast 
 - 🎯 Learn, share and grow 
 
 ---
