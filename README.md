@@ -19,7 +19,8 @@
 - 👋 Hi, I’m @b-elamine
 - 👀 I’m a Full-Stack Developer 
 - 🌱 ML, FL and DSP enthusiast 
-- 🎯 Learn, share and grow 
+- 🎯 Learn, share and grow
+- Contact : m.bechorfa@gmail.com
 
 ---
 
