@@ -17,8 +17,8 @@
 ### :monocle_face: About me :
 
 - 👋 Hi, I’m @b-elamine
-- 👀 I’m a Full-Stack Developer 
-- 🌱 ML, FL and DSP enthusiast 
+- 👀 I’m a Software Engineer
+- 🌱 Machine Learning, Federated Learning enthusiast 
 - 🎯 Learn, share and grow
 - Contact : m.bechorfa@gmail.com
 
