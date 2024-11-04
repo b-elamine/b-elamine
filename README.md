@@ -17,10 +17,10 @@
 ### :monocle_face: About me :
 
 - 👋 Hi, I’m @b-elamine
-- 👀 I’m a Software Enginee, Innovation is my passion 
+- 👀 I’m a Software Enginee
 - 🌱 Machine Learning, Federated Learning enthusiast 
 - 🎯 Learn, share and grow
-- Contact : m.bechorfa@gmail.com
+- Contact - Collab : m.bechorfa@gmail.com
 
 ---
 
