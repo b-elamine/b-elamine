@@ -16,11 +16,13 @@
 
 ### :monocle_face: About me :
 
-- 👋 Hi, I’m @b-elamine
-- 👀 I’m a Software Enginee
-- 🌱 Machine Learning, Federated Learning enthusiast 
-- 🎯 Learn, share and grow
-- Contact - Collab : m.bechorfa@gmail.com
+### About me
+
+- 👋 Hi, I’m **El Amine**
+- 🎓 PhD researcher in computer science  
+- 🧠 Interested in distributed systems, automation, and applied ML  
+- 🔬 Research-oriented, code-driven  
+- 📫 Contact / collaboration: **m.bechorfa@gmail.com**
 
 ---
 
