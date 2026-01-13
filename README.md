@@ -41,4 +41,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title ="android-st" alt="android-st" width="40" height="40"/>&nbsp;
   </div>
   
-  ---
