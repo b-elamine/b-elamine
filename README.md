@@ -42,10 +42,3 @@
   </div>
   
   ---
-  
-  ### :fire: My Stats :
-  <div align="center"> 
-  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=b-elamine&theme=dark&background=000000) 
-
-</div>
