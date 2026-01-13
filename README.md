@@ -21,7 +21,6 @@
 - 👋 Hi, I’m **El Amine**
 - 🎓 PhD researcher in computer science  
 - 🧠 Interested in distributed systems, automation, and applied ML  
-- 🔬 Research-oriented, code-driven  
 - 📫 Contact / collaboration: **m.bechorfa@gmail.com**
 
 ---
